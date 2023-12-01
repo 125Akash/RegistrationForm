@@ -1,6 +1,4 @@
-Certainly! Below is a sample README file for a GitHub repository that includes a registration form project using React for the frontend, MongoDB for the database, and has a folder structure with separate "backend" and "frontend" folders. Feel free to customize it based on your specific project details.
 
----
 
 # Bharat Intern Task - Registration Form
 
